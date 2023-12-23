@@ -1,6 +1,7 @@
 <h1>Hack the Valley</h1>
 Oct 13-15 2023
 <p>Our project, Polyculture, is a scroller game that combines the Ontario indigenous culture curriculum with a fun, interactive game that makes the learning experience more engaging for students.</p>
+<p>Competed against 323 Participants</p>
 
 <h2>Inspiration</h2>
 In the 94 Calls to Action, many calls highlight the development of education for reconciliation curriculum. We identified two issues regarding this topic:
